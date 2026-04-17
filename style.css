@@ -1,0 +1,7 @@
+body { font-family: 'Segoe UI', Tahoma, sans-serif; margin: 0; background: #f9f9f9; }
+nav { display: flex; justify-content: space-between; padding: 20px; background: #1a1a1a; color: white; }
+.links a { color: white; margin-left: 15px; text-decoration: none; }
+section { padding: 50px 10%; }
+.grid { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; }
+.card { background: white; border: 1px solid #ddd; padding: 15px; width: 280px; border-radius: 5px; }
+footer { text-align: center; padding: 20px; background: #eee; }
